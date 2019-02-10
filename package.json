@@ -3,7 +3,7 @@
     "name": "numberone-color-theme",
     "displayName": "NumberOne Color Theme",
     "description": "Copy of the Simple Focus color theme created by Josè Roux",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "engines": {
         "vscode": "^1.4.0"
     },
