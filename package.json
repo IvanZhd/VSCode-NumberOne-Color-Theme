@@ -5,7 +5,7 @@
     "description": "Copy of the Simple Focus color theme created by Josè Roux",
     "version": "0.1.0",
     "engines": {
-        "vscode": "^1.31.0"
+        "vscode": "^1.4.0"
     },
     "categories": [
         "Themes"
